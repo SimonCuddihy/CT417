@@ -1,3 +1,3 @@
 # CT417
-Software Engineering III
+Software Engineering III - 
 Maven Project - Assignment 1 - Student Registration System
